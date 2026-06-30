@@ -41,6 +41,9 @@ python3 main.py
 ![image alt](https://github.com/shitalbasnet/Linux-Privesc-Audit/blob/main/Screenshot_2026-06-29_22-36-13.png?raw=true)
 ![image alt](https://github.com/shitalbasnet/Linux-Privesc-Audit/blob/main/Screenshot_2026-06-29_22-36-27.png?raw=true)
 
+## Video Demonstration
+YouTube (Unlisted) Video Link:
+
 
 
 
