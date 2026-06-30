@@ -31,5 +31,12 @@ python3 main.py
 
 ![image alt](https://github.com/shitalbasnet/Linux-Privesc-Audit/blob/main/Screenshot_2026-06-07_13_18_37.png?raw=true)
 
-
+## Screenshots
+![image alt](
+![image alt](
+![image alt](
+![image alt](
+![image alt](
+![image alt](
+![image alt](
 
