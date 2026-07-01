@@ -43,8 +43,10 @@ python3 main.py
 
 ## Video Demonstration
 YouTube (Unlisted) Video Link:
+https://youtu.be/wfdwrIh0HCg
 
-
+## Disclaimer
+This project was developed for educational purposes and cybersecurity security auditing practice. The toolkit performs detection and analysis only and does not execute privilege escalation exploits or malicious actions.
 
 
 
